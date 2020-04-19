@@ -1,0 +1,1 @@
+curl -H "MyCoolHeader: SomeCoolValue" -v "localhost:8080/api2/oneship"
